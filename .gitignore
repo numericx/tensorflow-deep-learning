@@ -4,5 +4,7 @@
 .venv
 .ipynb_checkpoints
 .ipynb_checkpoints/
+extras/__pycache__/*
+__MACOSX/*
 models/*
-beginners_quick_start.ipynb
+XX_beginners_quick_start.ipynb
