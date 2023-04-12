@@ -7,4 +7,5 @@
 extras/__pycache__/*
 __MACOSX/*
 models/*
+extras/images/custom_food_images/*
 XX_beginners_quick_start.ipynb
